@@ -23,6 +23,12 @@ This project demonstrates the practical application of machine learning, predict
 
 It was developed by **DataQuest Solutions** as part of its commitment to applying data science, artificial intelligence, and technology to real-world challenges.
 
+## 🚀 Live Application
+
+**Try the Lung Capacity Prediction System here:**
+
+👉 [Launch Live Application](https://lung-capacity-prediction-system-5xe535ytbqpzh3obbnappy4.streamlit.app/)
+
 ## 2. Project Objectives
 
 The main objectives are to:
