@@ -99,6 +99,7 @@ The application preserves the feature names and ordering expected by the trained
 | Joblib | Loading the serialized prediction model |
 | HTML/CSS | Application interface customization |
 | Git & GitHub | Version control and project hosting |
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Launch%20Application-orange?style=for-the-badge&logo=streamlit)](https://lung-capacity-prediction-system-5xe535ytbqpzh3obbnappy4.streamlit.app/)
 
 ## 6. Project Structure
 
@@ -243,6 +244,14 @@ Lung_Capacity_Prediction_App.py
 8. Deploy the application.
 
 Ensure that the required model artifact and dependencies are available to the deployment environment.
+
+### Live Deployment
+
+The Lung Capacity Prediction System is publicly accessible through Streamlit Community Cloud.
+
+**Access the application:**
+
+https://lung-capacity-prediction-system-5xe535ytbqpzh3obbnappy4.streamlit.app/
 
 ## 10. Potential Applications
 
