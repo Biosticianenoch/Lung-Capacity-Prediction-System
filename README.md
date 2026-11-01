@@ -13,6 +13,12 @@
 
 ---
 
+## Live Application
+
+**Try the Lung Capacity Prediction System here:**
+
+👉 [Launch Live Application](https://lung-capacity-prediction-system-5xe535ytbqpzh3obbnappy4.streamlit.app/)
+
 ## 1. Project Overview
 
 The **Lung Capacity Prediction System** is a machine learning-powered web application developed using Python and Streamlit. It applies a trained regression model to estimate lung capacity based on selected demographic and lifestyle characteristics.
@@ -22,12 +28,6 @@ The application provides an interactive interface through which users can enter 
 This project demonstrates the practical application of machine learning, predictive modeling, and interactive data science solutions within the health domain.
 
 It was developed by **DataQuest Solutions** as part of its commitment to applying data science, artificial intelligence, and technology to real-world challenges.
-
-## 🚀 Live Application
-
-**Try the Lung Capacity Prediction System here:**
-
-👉 [Launch Live Application](https://lung-capacity-prediction-system-5xe535ytbqpzh3obbnappy4.streamlit.app/)
 
 ## 2. Project Objectives
 
